@@ -216,6 +216,7 @@
 .testimonial-carousel .owl-dot.active {
   background: var(--primary);
 }
-.mb-2{
+
+/* .mb-2 {
   text-align: justify;
-}
+} */
